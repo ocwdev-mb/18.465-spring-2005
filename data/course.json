@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "763d0900-53c5-b551-cec9-82c19ad1715b",
+  "instructors": {
+    "content": [
+      "b666f33e-1df0-a8db-3f9e-751bb8bec11e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e4689bd8-4e82-1cbe-f0e9-3289d30e0fc2",
+    "website": "18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005"
+  },
+  "course_title": "Topics in Statistics: Nonparametrics and Robustness",
+  "course_description": "This graduate-level course focuses on one-dimensional nonparametric statistics developed mainly from around 1945 and deals with order statistics and ranks, allowing very general distributions.\n\nFor multidimensional nonparametric statistics, an early approach was to choose a fixed coordinate system and work with order statistics and ranks in each coordinate. A more modern method, to be followed in this course, is to look for rotationally or affine invariant procedures. These can be based on empirical processes as in computer learning theory.\n\nRobustness, which developed mainly from around 1964, provides methods that are resistant to errors or outliers in the data, which can be arbitrarily large. Nonparametric methods tend to be robust.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.465",
+  "course_image_thumbnail": {
+    "content": "31163d9d-725b-6ea8-a804-2eee349e936b",
+    "website": "18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "dd66a074-ac6e-418e-aaa0-daf1bedad320",
+  "site_short_id": "18.465-spring-2005",
+  "title": "Course Metadata"
+}
